@@ -8,6 +8,7 @@ module.exports = {
     `gatsby-plugin-chakra-ui`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-emotion`,
+    `gatsby-plugin-preact`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
