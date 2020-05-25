@@ -4,10 +4,10 @@ title: A second blog
 date: 2020-02-15T01:04:56.321Z
 description: Some thing short and sweet
 featuredpost: true
-featuredimage: 'https://res.cloudinary.com/wiha/image/upload/v1579286543/logo_ptyjof.png'
+featuredimage: ""
 tags:
   - x
-  - 'y'
+  - y
   - z
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sed viverra arcu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse mattis nec felis eu tincidunt. Praesent ligula felis, tincidunt sed augue a, tincidunt pulvinar orci. Integer mi magna, finibus at orci sit amet, pharetra consequat felis. Quisque fringilla, lorem vel egestas porta, velit ante posuere augue, non ultrices ligula felis id turpis. Integer in erat accumsan, fringilla mauris eget, tincidunt mi. Aliquam sollicitudin magna dolor, a pellentesque nibh iaculis quis. Nullam cursus arcu suscipit, eleifend dui eget, aliquam leo. Quisque sed sagittis lectus. Duis gravida lectus lacinia tortor imperdiet, nec vestibulum felis accumsan. Nunc tristique condimentum neque, vel accumsan nunc lacinia vel. Etiam eget massa et nulla pharetra dapibus a sit amet justo. Phasellus lacus turpis, convallis id dolor sit amet, auctor vestibulum mi.
