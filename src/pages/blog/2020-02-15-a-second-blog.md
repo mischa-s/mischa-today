@@ -26,19 +26,17 @@ main: >-
   Jacquline Novagrats, "I TRY to do it every day, I don't do it every day, but when I do do it my day is different"
 
 
-  * Start with intention: what do you want to accomplish in the day - who do you want to be?
+  - Start with intention: what do you want to accomplish in the day - who do you want to be?
 
+  - Checkin with yourself later, ask yourself how you did - do an account. What did you learn from it?
 
-  * Checkin with yourself later, ask yourself how you did - do an account. What did you learn from it?
+  - Importantly, forgive yourself for what you didn't do or what you did poorly
 
-
-  * Importantly, forgive yourself for what you didn't do or what you did poorly
-
-
-  * Express gratitude
+  - Express gratitude
 
 
   A simple formula, one I have encountered many times in my life. One which I have taken for granted. Throughout my life I can remember many times where I have spoken with friends about the importance of practice. I have been asked "do you meditate or have some other form of daily practice", to which I have replied, "No. While I can see the value of it, for me the objective is to be in that place of practice in each moment." Each time I have said this, I have also been aware that there would likely come a time in my life where I would need to cultivate my connection to self with more devoted consciousness. Sitting in my bed now, feeling the restless unease of an undesciplined inner life, I see clearly an opportunity to cultivate and to grow that which will serve me.
+
 tags:
   - inspiration
 ---

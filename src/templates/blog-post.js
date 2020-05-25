@@ -1,34 +1,33 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { kebabCase } from "lodash";
-import { Helmet } from "react-helmet";
-import { graphql, Link } from "gatsby";
-import styled from "@emotion/styled";
-import { Button } from "@chakra-ui/core";
-import { Divider } from "@chakra-ui/core";
-import { List, ListItem } from "@chakra-ui/core";
-import { Flex } from "@chakra-ui/core";
-import { Heading } from "@chakra-ui/core";
+import React from "react"
+import PropTypes from "prop-types"
+import { kebabCase } from "lodash"
+import { Helmet } from "react-helmet"
+import { graphql, Link } from "gatsby"
+import styled from "@emotion/styled"
+import { Button } from "@chakra-ui/core"
+import { Divider } from "@chakra-ui/core"
+import { List, ListItem } from "@chakra-ui/core"
+import { Flex } from "@chakra-ui/core"
+import { Heading } from "@chakra-ui/core"
+import ReactMarkdown from "react-markdown"
+import markdownRenderers from "../lib/markdown-renderers"
 
-import Content, { HTMLContent } from "../components/Content";
-import Layout from "../components/layout";
+import Layout from "../components/layout"
 
-import ContentWrapper from "../lib/content-wrapper";
+import ContentWrapper from "../lib/content-wrapper"
 
 const TagWrapper = styled.div`
   margin: 2em auto;
-`;
+`
 
 export function BlogPostTemplate({
   content,
-  contentComponent,
   description,
   date,
   tags,
   title,
-  helmet
+  helmet,
 }) {
-  const PostContent = contentComponent || Content;
 
   return (
     <ContentWrapper>
@@ -50,7 +49,11 @@ export function BlogPostTemplate({
         <Heading as="h5" mb="5" size="sm">
           {date}
         </Heading>
-        <PostContent content={content} />
+        <ReactMarkdown
+          source={content}
+          className=""
+          renderers={markdownRenderers}
+        />
 
         {tags && tags.length ? (
           <TagWrapper>
@@ -75,7 +78,7 @@ export function BlogPostTemplate({
         </Link>
       </Flex>
     </ContentWrapper>
-  );
+  )
 }
 
 BlogPostTemplate.propTypes = {
@@ -83,17 +86,16 @@ BlogPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
-  helmet: PropTypes.object
-};
+  helmet: PropTypes.object,
+}
 
 const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data;
+  const { markdownRemark: post } = data
 
   return (
     <Layout>
       <BlogPostTemplate
-        content={post.html}
-        contentComponent={HTMLContent}
+        content={post.frontmatter.main}
         description={post.frontmatter.description}
         date={post.frontmatter.date}
         helmet={
@@ -109,28 +111,28 @@ const BlogPost = ({ data }) => {
         title={post.frontmatter.title}
       />
     </Layout>
-  );
-};
+  )
+}
 
 BlogPost.propTypes = {
   data: PropTypes.shape({
-    markdownRemark: PropTypes.object
-  })
-};
+    markdownRemark: PropTypes.object,
+  }),
+}
 
-export default BlogPost;
+export default BlogPost
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
-      html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
         description
+        main
         tags
       }
     }
   }
-`;
+`
