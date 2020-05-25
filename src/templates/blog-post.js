@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { kebabCase } from "lodash";
-import Helmet from "react-helmet";
+import { Helmet } from "react-helmet";
 import { graphql, Link } from "gatsby";
 import styled from "@emotion/styled";
 import { Button } from "@chakra-ui/core";
