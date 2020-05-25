@@ -37,9 +37,6 @@ export function BlogPostTemplate({
           as="h1"
           mb="5"
           size="xl"
-          bg="blackAlpha.800"
-          color="brightYellow"
-          p={2}
         >
           {title}
         </Heading>

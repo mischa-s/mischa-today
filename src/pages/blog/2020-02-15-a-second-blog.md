@@ -8,16 +8,15 @@ description: >
 featuredpost: true
 featuredimage: ""
 main: >-
-  <br />
 
 
-  With trepidation I wade again\
+  With trepidation I wade again  
 
-  Into the river of time\
+  Into the river of time  
 
-  With humble heart\
+  With humble heart  
 
-  And wary mind <br /> <br />
+  And wary mind  
 
 
   I am inspired to make this foray by the recent episode of [On Being with Krista Tippett featuring Jacqueline Novogratz - Towards a Moral Revolution](https://onbeing.org/programs/jacqueline-novogratz-towards-a-moral-revolution/). I enjoyed it so much I listened to it twice. Towards the end of the podcast, they speak about the Daily Examen, and Jacqueline speaks about her adaptation of it.
@@ -32,18 +31,12 @@ main: >-
   4. Express gratitude
 
 
-  <br />
-
-
   > *"I TRY to do it every day, I don't do it every day, but when I do do it my day is different"* 
-
-  >
 
   > *\- Jacquline Novagrats*
 
   >
 
-  > <br />
 
 
   A simple formula, one I have encountered many times in my life. One which I have taken for granted. Throughout my life I can remember many times where I have spoken with friends about the importance of practice. I have been asked "do you meditate or have some other form of daily practice", to which I have replied, "No. While I can see the value of it, for me the objective is to be in that place of practice in each moment."
