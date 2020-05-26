@@ -29,10 +29,8 @@ export default class BlogIndexPage extends React.Component {
               as="h2"
               mb="5"
               size="xl"
-              bg="blackAlpha.800"
-              color="brightYellow"
               p={2}
-            >Latest news </Heading>
+            >Fragments in time </Heading>
           </div>
           <section className="section">
             <div className="container">

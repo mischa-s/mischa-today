@@ -62,7 +62,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-favicon`,
       options: {
-        logo: "./src/images/mischa-icon.png",
+        logo: "./src/images/favicon.svg",
       },
     },
     "gatsby-plugin-netlify", // make sure to keep it last in the array
