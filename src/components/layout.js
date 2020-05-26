@@ -24,7 +24,7 @@ const ContenteWrapper = styled.div`
   max-width: 800px;
   min-width: 350px;
   width: 100%;
-  margin: 1rem 2rem;
+  padding: 1rem 2rem;
 `
 
 const LeftBar = styled.div`
@@ -40,7 +40,6 @@ const RightBar = styled.div`
 `
 
 const TopBar = styled.div`
-  height: 5rem;
   background-color: #3399cc;
   width: 50%;
   display: flex;
@@ -50,7 +49,6 @@ const TopBar = styled.div`
   color: white;
 `
 const TopBar2 = styled.div`
-  height: 5rem;
   background-color: #336633;
   width: 50%;
   display: flex;
@@ -79,13 +77,17 @@ const Layout = ({ children }) => {
           <Heading as="h1" size="xl">
             Mischa
           </Heading>
-          <Text as="i" fontSize="xs">This is not a cannonical place of Mischa's opinions</Text>
+          <Text as="i" fontSize="xs">
+            This is not a cannonical place of Mischa's opinions
+          </Text>
         </TopBar>
         <TopBar2>
           <Heading as="h1" size="xl">
             Today
           </Heading>
-          <Text as="i" fontSize="xs">The fragements found here are ripples in time</Text>
+          <Text as="i" fontSize="xs">
+            The fragements found here are ripples in time
+          </Text>
         </TopBar2>
       </Flex>
       <main>
@@ -95,11 +97,6 @@ const Layout = ({ children }) => {
           <RightBar />
         </PageWrapper>
       </main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
-      </footer>
     </>
   )
 }
