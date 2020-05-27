@@ -5,11 +5,11 @@ date: 2020-05-26T08:37:53.964Z
 description: Poetry slows you down... Anything in our world now that slows us
   down, is to be valued, and maybe is a gift and even a calling from God
 main: >-
-  Sitting in stillness I find myself\
+  Sitting in stillness I find myself
 
-  Grasping for fragments to chase\
+  Grasping for fragments to chase
 
-  Searching for form to contextualize the vastness\
+  Searching for form to contextualize the vastness
 
   Jittering away from impermanence
 
@@ -35,16 +35,16 @@ main: >-
   I first heard these lines from Wendell Berry a few weeks ago and hearing them again today, I hear in them what I must now remember:
 
 
-  *Make a place to sit down.*\
+  *Make a place to sit down.*
 
   *Sit down. Be quiet.*  
 
 
-  *out of the silence, like prayers*\
+  *out of the silence, like prayers*
 
-  *prayed back to the one who prays,*\
+  *prayed back to the one who prays,*
 
-  *make a poem that does not disturb*\
+  *make a poem that does not disturb*
 
   *the silence from which it came.*
 
