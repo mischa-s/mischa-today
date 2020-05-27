@@ -5,16 +5,16 @@ date: 2020-05-26T08:37:53.964Z
 description: Poetry slows you down... Anything in our world now that slows us
   down, is to be valued, and maybe is a gift and even a calling from God
 main: >-
-  Sitting in stillness I find myself  
+  Sitting in stillness I find myself\
 
-  Grasping for fragments to chase  
+  Grasping for fragments to chase\
 
-  Searching for form to contextualize the vastness  
+  Searching for form to contextualize the vastness\
 
   Jittering away from impermanence
 
 
-    ---
+  - - -
 
 
   Today I made some choices about how I want to be.
@@ -26,7 +26,7 @@ main: >-
   I forgive myself my imperfections, though they are many, and commit myself to practice
 
 
-    ---
+  - - -
 
 
   Today I am inspired again by an episode of On Being with Krista Tippett, this one featuring Wendell Berry and Ellen Davis entitled [The Art of Being Creature](https://onbeing.org/programs/wendell-berry-ellen-davis-the-art-of-being-creatures/). Recently I have noticed a change in how I am with myself. For a long time I have valued my enjoyment of sitting in stillness and observing. Silence. Outwardly doing nothing. Yet these days those moments of stillness are few and my peace in this place is fleeting. 
@@ -35,53 +35,45 @@ main: >-
   I first heard these lines from Wendell Berry a few weeks ago and hearing them again today, I hear in them what I must now remember:
 
 
-  *Make a place to sit down.*  
+  *Make a place to sit down.*\
 
   *Sit down. Be quiet.*  
 
-    
 
-  *There are no unsacred places;*  
+  *out of the silence, like prayers*\
 
-  *there are only sacred places*  
+  *prayed back to the one who prays,*\
 
-  *and desecrated places.*
-
-
-  *out of the silence, like prayers*  
-
-  *prayed back to the one who prays,*  
-
-  *make a poem that does not disturb*  
+  *make a poem that does not disturb*\
 
   *the silence from which it came.*
 
 
-    ---
+  - - -
 
 
   *How to Be a Poet*
 
 
-  Make a place to sit down.  
+  Make a place to sit down.\
 
-  Sit down. Be quiet.  
+  Sit down. Be quiet.\
 
-  You must depend upon  
+  You must depend upon\
 
-  affection, reading, knowledge,  
+  affection, reading, knowledge,\
 
-  skill—more of each  
+  skill—more of each\
 
-  than you have—inspiration,  
+  than you have—inspiration,\
 
-  work, growing older, patience,  
+  work, growing older, patience,\
 
-  for patience joins time  
+  for patience joins time\
 
-  to eternity. Any readers  
+  to eternity. Any readers\
 
-  who like your poems,  
+  who like your poems,\
 
   doubt their judgment.
 
@@ -89,25 +81,25 @@ main: >-
   ii
 
 
-  Breathe with unconditional breath  
+  Breathe with unconditional breath\
 
-  the unconditioned air.  
+  the unconditioned air.\
 
-  Shun electric wire.  
+  Shun electric wire.\
 
-  Communicate slowly. Live  
+  Communicate slowly. Live\
 
-  a three-dimensioned life;  
+  a three-dimensioned life;\
 
-  stay away from screens.  
+  stay away from screens.\
 
-  Stay away from anything  
+  Stay away from anything\
 
-  that obscures the place it is in.  
+  that obscures the place it is in.\
 
-  There are no unsacred places;  
+  There are no unsacred places;\
 
-  there are only sacred places  
+  there are only sacred places\
 
   and desecrated places.
 
@@ -115,22 +107,22 @@ main: >-
   iii
 
 
-  Accept what comes from silence.  
+  Accept what comes from silence.\
 
-  Make the best you can of it.  
+  Make the best you can of it.\
 
-  Of the little words that come  
+  Of the little words that come\
 
-  out of the silence, like prayers  
+  out of the silence, like prayers\
 
-  prayed back to the one who prays,  
+  prayed back to the one who prays,\
 
-  make a poem that does not disturb  
+  make a poem that does not disturb\
 
   the silence from which it came.
 
 
-    ---
+  - - -
 
 
   Poetry cannot be read in distraction – Wendall Barry
