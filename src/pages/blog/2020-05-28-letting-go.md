@@ -26,7 +26,7 @@ main: >-
 
   \
 
-  Today I am grateful for my mind. I do not understand it. But when the thoughts overwhelm me, I can lay my head down on a pillow (preferably in the sun) and drift off. When I come to, my mind has filtered all of the thoughts for me and leaves me with just a few. This is a minor miracle. As I bring awareness to my thinking I notice how I can do this house keeping more regularly reducing the volanci eruption of thoughts. Slowing down. Letting go. Feeling gratitude. Breathing. Breathing. Breathing.
+  Today I am grateful for my mind. I do not understand it. But when the thoughts overwhelm me, I can lay my head down on a pillow (preferably in the sun) and drift off. When I come to, my mind has filtered all of the thoughts for me and leaves me with just a few. This is a minor miracle. As I bring awareness to my thinking I notice how I can do this house keeping more regularly to reduce the volcanic eruption of thoughts. Slowing down. Letting go. Feeling gratitude. Breathing. Breathing. Breathing.
 tags:
   - inspiration
 ---
