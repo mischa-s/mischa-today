@@ -14,9 +14,9 @@ main: >-
 
   *When it dawns on me*\
 
-  *I am once more the thinker*\
+  *I am once more being dragged along*\
 
-  *As I release my hold on the thought*\
+  *I release my hold on the thought*\
 
   *I fall back to observation*\
 
