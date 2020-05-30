@@ -9,12 +9,11 @@ import { Divider } from "@chakra-ui/core"
 import { List, ListItem } from "@chakra-ui/core"
 import { Flex } from "@chakra-ui/core"
 import { Heading } from "@chakra-ui/core"
-import ReactMarkdown from "react-markdown"
-import markdownRenderers from "../lib/markdown-renderers"
 
 import Layout from "../components/layout"
 
-import ContentWrapper from "../lib/content-wrapper"
+import ContentWrapper from "../lib/content-wrapper";
+import Content, { HTMLContent } from "../components/Content";
 
 const TagWrapper = styled.div`
   margin: 2em auto;
@@ -22,12 +21,15 @@ const TagWrapper = styled.div`
 
 export function BlogPostTemplate({
   content,
+  contentComponent,
   description,
   date,
   tags,
   title,
   helmet,
 }) {
+
+  const PostContent = contentComponent || Content;
 
   return (
     <ContentWrapper>
@@ -46,11 +48,7 @@ export function BlogPostTemplate({
         <Heading as="h5" mb="5" size="sm">
           {date}
         </Heading>
-        <ReactMarkdown
-          source={content}
-          className=""
-          renderers={markdownRenderers}
-        />
+        <PostContent content={content} className={"html-content"} />
 
         {tags && tags.length ? (
           <TagWrapper>
@@ -92,7 +90,8 @@ const BlogPost = ({ data }) => {
   return (
     <Layout>
       <BlogPostTemplate
-        content={post.frontmatter.main}
+        content={post.html}
+        contentComponent={HTMLContent}
         description={post.frontmatter.description}
         date={post.frontmatter.date}
         helmet={
@@ -123,11 +122,11 @@ export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
+      html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
         description
-        main
         tags
       }
     }
