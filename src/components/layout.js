@@ -78,7 +78,7 @@ const Layout = ({ children }) => {
             Mischa
           </Heading>
           <Text as="i" fontSize="xs">
-            This is not a cannonical place of Mischa's opinions
+            This is not a canonical place of Mischa's opinions
           </Text>
         </TopBar>
         <TopBar2>
@@ -86,7 +86,7 @@ const Layout = ({ children }) => {
             Today
           </Heading>
           <Text as="i" fontSize="xs">
-            The fragements found here are ripples in time
+            The fragments found here are ripples in time
           </Text>
         </TopBar2>
       </Flex>
