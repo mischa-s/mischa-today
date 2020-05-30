@@ -13,22 +13,22 @@ tags:
 *Vision narrows*\
 \
 *Time*\
-S*lows*\
+*Slows*\
 \
 *Self*\
 *Expands*\
 \
 *Finger*\
-T*ips*\
-Ti*ngle*\
+*Tips*\
+*Tingle*\
 \
 *Breath*\
-W*ashes*\
-I*n*
+*Washes*\
+*In*
 
 *Breath*\
-Washes\
-Out\
+*Washes*\
+*Out*\
 \
 I remember the sense of wonder I felt the first time I realized I was living in a body. Feeling my sense of self permeating the physical essence. Later, I remember noticing how this permeation changed as emotions made themselves known. Like thoughts which appear in my consciousness and which I can poke and prod. If I am paying attention I can watch the emotions arise. With practice I've found I can feel into them with different parts of my body.\
 \
