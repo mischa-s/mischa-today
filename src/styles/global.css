@@ -3,3 +3,7 @@
     margin: revert;
     padding: revert
 }
+
+.html-content a {
+    text-decoration: underline;
+}
