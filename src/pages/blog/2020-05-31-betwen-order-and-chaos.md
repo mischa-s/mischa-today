@@ -6,12 +6,12 @@ description: The living edge between finely tuned systems and emergent behaviour
 tags:
   - systems
 ---
-I stand amongst the swirling thoughts\
-Finding stillness in the storm\
+*I stand amongst the swirling thoughts*\
+*Finding stillness in the storm*\
 \
-And from the stillness spring into motion\
-Riding the waves of chaos to form\
-Form to chaos, chaos to form\
+*And from the stillness spring into motion*\
+*Riding the waves of chaos to form*\
+*Form to chaos, chaos to form*\
 \
 A few years ago when seeking to describe myself, I stumbled upon the phrase 
 
